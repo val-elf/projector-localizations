@@ -1,7 +1,7 @@
 import english from "./data/en-us";
 import russian from "./data/ru-ru";
 
-module.exports = {
+export default {
 	en: english,
 	ru: russian,
 };
