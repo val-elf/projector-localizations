@@ -15,9 +15,8 @@ const prepare = (item, key) => {
 	return res;
 }
 
-const translations = {
+export const translations = {
 	ru: prepare(russian),
 	en: prepare(english),
 };
 
-export { translations };

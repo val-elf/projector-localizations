@@ -31,6 +31,7 @@ export default {
     NONAME: 'Noname',
     PREVIEW: 'preview',
     PROJECTS: 'Projects',
+    'PROJECTS-LIST': 'Projects List',
     'PROJECT!': 'PROJECT!',
     REMOVE: 'delete',
     SAVE: 'Save',

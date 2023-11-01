@@ -14,5 +14,12 @@ export default {
     CATEGORY_NAME: 'Category name',
     CATEGORY: 'Category',
     COLLECTION: 'Collection',
-    CHARACTERS: 'Characters'
+    CHARACTERS: 'Characters',
+    MENU: {
+        PLOT: 'Plot',
+        CHARACTERS: 'Characters',
+        LOCATIONS: 'Locations',
+        ARTIFACTS: 'Artifacts',
+        DOCUMENTS: 'Documents',
+    }
 }
